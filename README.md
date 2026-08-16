@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-08-15 23:48 UTC`
+> 🔄 **Última sincronización automática:** `2026-08-16 00:22 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -43,7 +43,7 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 
 ---
 
-## 📂 Categorías Especializadas en `RESULTADOS.md`
+## 📂 Categorías Especializadas en `LEADERBOARD_MODELOS_IA.md`
 - 🌟 **Fusión Cruzada:** Tabla global con inteligencia, velocidad, costo y Elo cruzados.
 - 🎓 **Tesis e Investigación:** Para papers, redacción académica y deducción lógica.
 - 💻 **Programación y Terminal:** Para apps, debugging y código frontend/backend.
@@ -60,4 +60,4 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 ## ⚙️ Arquitectura y Automatización
 - **Workflow:** [`.github/workflows/update-leaderboard.yml`](.github/workflows/update-leaderboard.yml) se ejecuta automáticamente cada 8 horas (10:00 PM, 6:00 AM y 2:00 PM hora Perú).
 - **Web Scraping Dinámico:** Extrae datos en vivo sin dependencias pesadas mediante `requests` y `beautifulsoup4`.
-- **Auto-Commit Seguro:** Si los datos cambian, el bot de GitHub actualiza `RESULTADOS.md` y `README.md` automáticamente sin colisiones.
+- **Auto-Commit Seguro:** Si los datos cambian, el bot de GitHub actualiza `LEADERBOARD_MODELOS_IA.md` y `README.md` automáticamente sin colisiones.

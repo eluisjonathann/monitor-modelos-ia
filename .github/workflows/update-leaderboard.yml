@@ -49,7 +49,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add RESULTADOS.md README.md
+          git add LEADERBOARD_MODELOS_IA.md README.md
           if git diff --staged --quiet; then
             echo "Sin cambios detectados en esta ejecución."
             echo "### ℹ️ Estado: Sin cambios en los leaderboards" >> $GITHUB_STEP_SUMMARY

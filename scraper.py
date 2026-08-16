@@ -383,7 +383,7 @@ def generate_resultados_markdown(
     arena_categories: dict[str, list[dict[str, str]]],
     now_utc: str
 ) -> str:
-    """Genera el reporte integral enriquecido RESULTADOS.md con todas las categorías y manejo de degradación."""
+    """Genera el reporte integral enriquecido LEADERBOARD_MODELOS_IA.md con todas las categorías y manejo de degradación."""
     aa_available = bool(aa_dict)
     arena_available = any(bool(v) for v in arena_categories.values())
 
@@ -762,7 +762,7 @@ def generate_readme_markdown(
         "",
         "---",
         "",
-        "## 📂 Categorías Especializadas en `RESULTADOS.md`",
+        "## 📂 Categorías Especializadas en `LEADERBOARD_MODELOS_IA.md`",
         "- 🌟 **Fusión Cruzada:** Tabla global con inteligencia, velocidad, costo y Elo cruzados.",
         "- 🎓 **Tesis e Investigación:** Para papers, redacción académica y deducción lógica.",
         "- 💻 **Programación y Terminal:** Para apps, debugging y código frontend/backend.",
@@ -779,7 +779,7 @@ def generate_readme_markdown(
         "## ⚙️ Arquitectura y Automatización",
         "- **Workflow:** [`.github/workflows/update-leaderboard.yml`](.github/workflows/update-leaderboard.yml) se ejecuta automáticamente cada 8 horas (10:00 PM, 6:00 AM y 2:00 PM hora Perú).",
         "- **Web Scraping Dinámico:** Extrae datos en vivo sin dependencias pesadas mediante `requests` y `beautifulsoup4`.",
-        "- **Auto-Commit Seguro:** Si los datos cambian, el bot de GitHub actualiza `RESULTADOS.md` y `README.md` automáticamente sin colisiones."
+        "- **Auto-Commit Seguro:** Si los datos cambian, el bot de GitHub actualiza `LEADERBOARD_MODELOS_IA.md` y `README.md` automáticamente sin colisiones."
     ])
 
     return "\n".join(md)
@@ -795,11 +795,11 @@ def main() -> None:
     aa_data = get_artificial_analysis_data(session=session)
     arena_data = get_arena_data(session=session)
 
-    # 2. Generar RESULTADOS.md (Reporte integral y categorizado)
+    # 2. Generar LEADERBOARD_MODELOS_IA.md (Reporte integral y categorizado)
     resultados_content = generate_resultados_markdown(aa_data, arena_data, now_utc)
-    with open("RESULTADOS.md", "w", encoding="utf-8") as f:
+    with open("LEADERBOARD_MODELOS_IA.md", "w", encoding="utf-8") as f:
         f.write(resultados_content)
-    logger.info("RESULTADOS.md actualizado con éxito.")
+    logger.info("LEADERBOARD_MODELOS_IA.md actualizado con éxito.")
 
     # 3. Generar README.md (Portada con guía de uso diario y resumen)
     readme_content = generate_readme_markdown(aa_data, arena_data, now_utc)

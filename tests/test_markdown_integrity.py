@@ -107,7 +107,7 @@ class TestMarkdownIntegrity(unittest.TestCase):
         res_content = generate_resultados_markdown(self.sample_aa, self.sample_arena, self.now_utc)
         readme_content = generate_readme_markdown(self.sample_aa, self.sample_arena, self.now_utc)
 
-        for content, name in [(res_content, "RESULTADOS.md"), (readme_content, "README.md")]:
+        for content, name in [(res_content, "LEADERBOARD_MODELOS_IA.md"), (readme_content, "README.md")]:
             self.assertNotIn("NaN", content, f"Encontrado NaN en {name}")
             self.assertNotIn("undefined", content.lower(), f"Encontrado undefined en {name}")
             self.assertNotIn("None", content, f"Encontrado literal 'None' en {name}")
