@@ -1,6 +1,6 @@
 # 🏆 Leaderboard Consolidado de Modelos de IA
 
-> 🔄 **Última actualización automática:** `2026-08-24 03:58 UTC`
+> 🔄 **Última actualización automática:** `2026-08-24 11:34 UTC`
 > 🌐 **Fuentes de datos:** Datos dinámicos en vivo de [Artificial Analysis](https://artificialanalysis.ai) y [Arena Leaderboard (LMSYS)](https://arena.ai).
 
 
@@ -26,18 +26,18 @@ Esta tabla combina la **inteligencia y velocidad** de Artificial Analysis con la
 
 | Puesto | Modelo | Inteligencia (AA) | Velocidad | Costo / Tarea | Arena Pts (Text) | Contexto | Mejor Para |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 1 | **Claude Opus 5 (max)** | 63.05 | 54.5 t/s | $2.3369 | 1493 | 1000k | Máximo Rendimiento & Problemas Complejos |
+| 1 | **Claude Opus 5 (max)** | 63.05 | 57.7 t/s | $2.3369 | 1493 | 1000k | Máximo Rendimiento & Problemas Complejos |
 | 2 | **Claude Fable 5 (with fallback)** | 62.07 | 69.5 t/s | $3.1396 | 1508 | 1000k | Máximo Rendimiento & Problemas Complejos |
-| 3 | **GPT-5.6 Sol (max)** | 60.93 | 74.4 t/s | $1.2312 | - | 1000k | Máximo Rendimiento & Problemas Complejos |
-| 4 | **Grok 4.6 (high)** | 60.92 | 68.7 t/s | $0.8367 | - | 500k | Razonamiento Avanzado & Tesis |
+| 3 | **GPT-5.6 Sol (max)** | 60.93 | 72.3 t/s | $1.2312 | - | 1000k | Máximo Rendimiento & Problemas Complejos |
+| 4 | **Grok 4.6 (high)** | 60.92 | 63.3 t/s | $0.8367 | - | 500k | Razonamiento Avanzado & Tesis |
 | 5 | **Kimi K3 (max)** | 59.7 | 34.3 t/s | $0.8375 | 1489 | 1048k | Razonamiento Avanzado & Tesis |
 | 6 | **GLM-5.3 (max)** | 59.51 | - | $0.6829 | - | 1000k | Razonamiento Avanzado & Tesis |
 | 7 | **Qwen3.8 2.4T A95B** | 57.7 | - | - | - | 983k | Razonamiento Avanzado & Tesis |
 | 8 | **Muse Spark 1.2 (xhigh)** | 56.76 | - | $0.3992 | 1498 | 1048k | Razonamiento Avanzado & Tesis |
-| 9 | **GPT-5.6 Terra (max)** | 56.58 | 122.7 t/s | - | - | 1000k | Razonamiento Avanzado & Tesis |
-| 10 | **Gemini 3.7 Flash (high)** | 56.03 | 340.1 t/s | $0.4022 | 1490 | 1000k | Uso Diario, APIs & Velocidad |
-| 11 | **DeepSeek V4 Pro 0813 (max)** | 53.2 | 70.6 t/s | $0.2521 | - | 1000k | Alta Eficiencia / Económico |
-| 12 | **GPT-5.6 Luna (max)** | 52.32 | 144.7 t/s | $0.0471 | - | 1000k | Alta Eficiencia / Económico |
+| 9 | **GPT-5.6 Terra (max)** | 56.58 | 121.5 t/s | - | - | 1000k | Razonamiento Avanzado & Tesis |
+| 10 | **Gemini 3.7 Flash (high)** | 56.03 | 336.5 t/s | $0.4022 | 1490 | 1000k | Uso Diario, APIs & Velocidad |
+| 11 | **DeepSeek V4 Pro 0813 (max)** | 53.2 | 69.6 t/s | $0.2521 | - | 1000k | Alta Eficiencia / Económico |
+| 12 | **GPT-5.6 Luna (max)** | 52.32 | 138.0 t/s | $0.0471 | - | 1000k | Alta Eficiencia / Económico |
 
 ---
 
@@ -52,9 +52,9 @@ Esta tabla combina la **inteligencia y velocidad** de Artificial Analysis con la
 | 4 | **muse-spark-1.2 (xHigh)** | 1498 | 4 | 56.76 | - | $0.3992 |
 | 5 | **claude-opus-4-6** | 1497 | 5 | - | - | - |
 | 6 | **claude-opus-4-7** | 1494 | 6 | - | - | - |
-| 7 | **claude-opus-5-high** | 1493 | 7 | 63.05 | 54.5 t/s | $2.3369 |
+| 7 | **claude-opus-5-high** | 1493 | 7 | 63.05 | 57.7 t/s | $2.3369 |
 | 8 | **muse-spark-1.1** | 1491 | 8 | - | - | - |
-| 9 | **gemini-3.7-flash-high** | 1490 | 9 | 56.03 | 340.1 t/s | $0.4022 |
+| 9 | **gemini-3.7-flash-high** | 1490 | 9 | 56.03 | 336.5 t/s | $0.4022 |
 | 10 | **kimi-k3-max** | 1489 | 10 | 59.7 | 34.3 t/s | $0.8375 |
 
 ---
@@ -64,16 +64,16 @@ Esta tabla combina la **inteligencia y velocidad** de Artificial Analysis con la
 
 | Puesto | Modelo | Puntuación Arena (WebDev) | Margen / CI | Velocidad AA | Costo AA |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | **claude-opus-5-max** | 1691 | 1 | 54.5 t/s | $2.3369 |
+| 1 | **claude-opus-5-max** | 1691 | 1 | 57.7 t/s | $2.3369 |
 | 2 | **kimi-k3-max** | 1674 | 2 | 34.3 t/s | $0.8375 |
 | 3 | **qwen3.8-max** | 1669 | 3 | - | - |
-| 4 | **claude-opus-5-high** | 1663 | 4 | 54.5 t/s | $2.3369 |
-| 5 | **grok-4.6-high** | 1629 | 5 | 68.7 t/s | $0.8367 |
+| 4 | **claude-opus-5-high** | 1663 | 4 | 57.7 t/s | $2.3369 |
+| 5 | **grok-4.6-high** | 1629 | 5 | 63.3 t/s | $0.8367 |
 | 6 | **claude-fable-5** | 1626 | 6 | 69.5 t/s | $3.1396 |
-| 7 | **gpt-5.6-sol-xhigh (codex-harness)** | 1619 | 7 | 74.4 t/s | $1.2312 |
+| 7 | **gpt-5.6-sol-xhigh (codex-harness)** | 1619 | 7 | 72.3 t/s | $1.2312 |
 | 8 | **glm-5.3-max** | 1599 | 8 | - | $0.6829 |
-| 9 | **qwen3.8-27b** | 1595 | 9 | 53.3 t/s | - |
-| 10 | **gemini-3.7-flash-high** | 1587 | 10 | 340.1 t/s | $0.4022 |
+| 9 | **qwen3.8-27b** | 1595 | 9 | 52.6 t/s | - |
+| 10 | **gemini-3.7-flash-high** | 1587 | 10 | 336.5 t/s | $0.4022 |
 
 ---
 
@@ -235,15 +235,15 @@ Modelos con la mayor velocidad de generación (tokens/s) y menor costo por tarea
 
 | Modelo | Velocidad (tokens/s) | Costo / Tarea ($ USD) | Inteligencia AA | Ventana Contexto |
 | :--- | :---: | :---: | :---: | :---: |
-| **Gemini 3.5 Flash-Lite** | 370.1 t/s | - | 37.44 | 1000k |
-| **Gemini 3.7 Flash (high)** | 340.1 t/s | $0.4022 | 56.03 | 1000k |
-| **Nemotron 3.5 Lightning** | 316.7 t/s | - | - | 1000k |
-| **Command A+** | 228.7 t/s | - | - | - |
-| **gpt-oss-120b (high)** | 188.0 t/s | - | - | - |
-| **Nemotron 3 Ultra** | 156.6 t/s | $0.3827 | 38.32 | - |
+| **Gemini 3.5 Flash-Lite** | 362.3 t/s | - | 37.44 | 1000k |
+| **Gemini 3.7 Flash (high)** | 336.5 t/s | $0.4022 | 56.03 | 1000k |
+| **Nemotron 3.5 Lightning** | 316.0 t/s | - | - | 1000k |
+| **Command A+** | 236.8 t/s | - | - | - |
+| **gpt-oss-120b (high)** | 185.4 t/s | - | - | - |
+| **Nemotron 3 Ultra** | 159.0 t/s | $0.3827 | 38.32 | - |
 | **Mistral Medium 3.5** | 148.3 t/s | - | - | - |
-| **GPT-5.6 Luna (max)** | 144.7 t/s | $0.0471 | 52.32 | 1000k |
-| **Nemotron 3 Super** | 142.6 t/s | - | - | 1000k |
-| **GPT-5.6 Terra (max)** | 122.7 t/s | - | 56.58 | 1000k |
+| **Nemotron 3 Super** | 142.0 t/s | - | - | 1000k |
+| **GPT-5.6 Luna (max)** | 138.0 t/s | $0.0471 | 52.32 | 1000k |
+| **GPT-5.6 Terra (max)** | 121.5 t/s | - | 56.58 | 1000k |
 
 ---
