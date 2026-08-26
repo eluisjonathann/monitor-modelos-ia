@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-08-25 19:36 UTC`
+> 🔄 **Última sincronización automática:** `2026-08-26 03:56 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -30,16 +30,16 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | **Claude Opus 5 (max)** | 63.05 | 57.7 t/s | $2.3369 | 1000k |
-| 2 | **Claude Fable 5 (with fallback)** | 62.07 | 71.1 t/s | $3.1396 | 1000k |
-| 3 | **GPT-5.6 Sol (max)** | 60.93 | 72.9 t/s | $0.9604 | 1000k |
-| 4 | **Grok 4.6 (high)** | 60.92 | 55.0 t/s | $0.8367 | 500k |
-| 5 | **Kimi K3 (max)** | 59.7 | 35.5 t/s | $0.8375 | 1048k |
-| 6 | **GLM-5.3 (max)** | 59.51 | 59.3 t/s | $0.6829 | 1000k |
+| 1 | **Claude Opus 5 (max)** | 63.05 | 59.7 t/s | $2.3369 | 1000k |
+| 2 | **Claude Fable 5 (with fallback)** | 62.07 | 72.3 t/s | $3.1396 | 1000k |
+| 3 | **GPT-5.6 Sol (max)** | 60.93 | 73.6 t/s | $0.9604 | 1000k |
+| 4 | **Grok 4.6 (high)** | 60.92 | 57.9 t/s | $0.8367 | 500k |
+| 5 | **Kimi K3 (max)** | 59.7 | 37.7 t/s | $0.8375 | 1048k |
+| 6 | **GLM-5.3 (max)** | 59.51 | 90.0 t/s | $0.6829 | 1000k |
 | 7 | **Qwen3.8 2.4T A95B** | 57.7 | - | - | 983k |
 | 8 | **Muse Spark 1.2 (xhigh)** | 56.76 | - | $0.3992 | 1048k |
-| 9 | **GPT-5.6 Terra (max)** | 56.58 | 120.5 t/s | - | 1000k |
-| 10 | **Gemini 3.7 Flash (high)** | 56.03 | 361.7 t/s | $0.4022 | 1000k |
+| 9 | **GPT-5.6 Terra (max)** | 56.58 | 120.4 t/s | - | 1000k |
+| 10 | **Gemini 3.7 Flash (high)** | 56.03 | 379.8 t/s | $0.4022 | 1000k |
 
 ---
 
