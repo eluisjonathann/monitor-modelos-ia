@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-08-27 13:59 UTC`
+> 🔄 **Última sincronización automática:** `2026-08-28 03:31 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -22,7 +22,7 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 | ⚡ **Consultas Diarias & Búsqueda Web** | **gpt-5.6-sol-xhigh** | Respuestas precisas conectadas a internet en tiempo real. |
 | 🤖 **Agentes Autónomos & Workflows** | **Claude Opus 5 (High)** | Mejor resolución autónoma en tareas multi-paso complejas. |
 | 🎨 **Generación de Imágenes** | **gpt-image-2 (medium)** | Máxima fidelidad de instrucciones y calidad visual. |
-| 🎬 **Generación de Video** | **gemini-omni-flash** | Consistencia temporal y calidad de movimiento. |
+| 🎬 **Generación de Video** | **gemini-omni-1.1-flash** | Consistencia temporal y calidad de movimiento. |
 
 ---
 
@@ -30,16 +30,16 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | **Claude Opus 5 (max)** | 63.05 | 55.5 t/s | $2.3369 | 1000k |
-| 2 | **Claude Fable 5 (with fallback)** | 62.07 | 70.4 t/s | $3.1396 | 1000k |
-| 3 | **GPT-5.6 Sol (max)** | 60.93 | 73.5 t/s | $1.0056 | 1000k |
-| 4 | **Grok 4.6 (high)** | 60.92 | 57.4 t/s | $0.9372 | 500k |
-| 5 | **Kimi K3 (max)** | 59.7 | 39.0 t/s | $0.8375 | 1048k |
-| 6 | **GLM-5.3 (max)** | 59.51 | 84.1 t/s | $0.6829 | 1000k |
+| 1 | **Claude Opus 5 (max)** | 63.05 | 55.4 t/s | $2.3369 | 1000k |
+| 2 | **Claude Fable 5 (with fallback)** | 62.07 | 64.9 t/s | $3.1396 | 1000k |
+| 3 | **GPT-5.6 Sol (max)** | 60.93 | 69.6 t/s | $0.9530 | 1000k |
+| 4 | **Grok 4.6 (high)** | 60.92 | 57.8 t/s | $0.9372 | 500k |
+| 5 | **Kimi K3 (max)** | 59.7 | 35.8 t/s | $0.8375 | 1048k |
+| 6 | **GLM-5.3 (max)** | 59.51 | 71.6 t/s | $0.6829 | 1000k |
 | 7 | **Qwen3.8 2.4T A95B** | 57.7 | - | - | 983k |
 | 8 | **GLM-5.3-Flash** | 57.46 | 50.2 t/s | - | 1000k |
 | 9 | **Muse Spark 1.2 (xhigh)** | 56.76 | - | $0.3992 | 1048k |
-| 10 | **GPT-5.6 Terra (max)** | 56.58 | 108.9 t/s | - | 1000k |
+| 10 | **GPT-5.6 Terra (max)** | 56.58 | 106.1 t/s | - | 1000k |
 
 ---
 
