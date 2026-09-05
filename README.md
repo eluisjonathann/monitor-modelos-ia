@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-09-05 13:47 UTC`
+> 🔄 **Última sincronización automática:** `2026-09-05 21:02 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -18,7 +18,7 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 | Caso de Uso | Modelo Recomendado Líder | Por qué elegirlo |
 | :--- | :--- | :--- |
 | 🎓 **Tesis & Redacción Académica** | **claude-fable-5** | Máximo razonamiento, síntesis conceptual y profundidad lógica. |
-| 💻 **Programación & Desarrollo Web** | **claude-fable-5.1-max** | Mayor precisión en generación de código, refactorización y terminal. |
+| 💻 **Programación & Desarrollo Web** | **gpt-6-astra-max** | Mayor precisión en generación de código, refactorización y terminal. |
 | ⚡ **Consultas Diarias & Búsqueda Web** | **gpt-5.6-sol-xhigh** | Respuestas precisas conectadas a internet en tiempo real. |
 | 🤖 **Agentes Autónomos & Workflows** | **Claude Opus 5 (High)** | Mejor resolución autónoma en tareas multi-paso complejas. |
 | 🎨 **Generación de Imágenes** | **gpt-image-2 (medium)** | Máxima fidelidad de instrucciones y calidad visual. |
@@ -30,14 +30,14 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | **Claude Fable 5.1 (max with fallback)** | 56.76 | 67.1 t/s | $6.1169 | 1000k |
-| 2 | **GPT-6 Astra (max)** | 54.66 | 63.4 t/s | $2.5673 | 1000k |
-| 3 | **Claude Opus 5 (max)** | 54.05 | 56.8 t/s | $4.2053 | 1000k |
-| 4 | **Claude Fable 5 (with fallback)** | 53.19 | 68.1 t/s | - | 1000k |
+| 1 | **Claude Fable 5.1 (max with fallback)** | 56.76 | 69.0 t/s | $6.1169 | 1000k |
+| 2 | **GPT-6 Astra (max)** | 54.66 | 64.3 t/s | $2.5673 | 1000k |
+| 3 | **Claude Opus 5 (max)** | 54.05 | 56.3 t/s | $4.2053 | 1000k |
+| 4 | **Claude Fable 5 (with fallback)** | 53.19 | 68.9 t/s | - | 1000k |
 | 5 | **Muse Spark 1.3 (max)** | 52.95 | 190.1 t/s | $0.9588 | 1000k |
-| 6 | **GPT-5.6 Sol (max)** | 51.26 | 80.9 t/s | - | 1000k |
+| 6 | **GPT-5.6 Sol (max)** | 51.26 | 83.2 t/s | - | 1000k |
 | 7 | **Grok 4.6 (high)** | 50.58 | 62.8 t/s | $1.2536 | 500k |
-| 8 | **Kimi K3 (max)** | 50.23 | 40.3 t/s | $1.5764 | 1048k |
+| 8 | **Kimi K3 (max)** | 50.23 | 40.7 t/s | $1.5764 | 1048k |
 | 9 | **GLM-5.3 (max)** | 48.58 | 84.2 t/s | $1.2594 | 1000k |
 | 10 | **Gemini 3.8 Flash (high)** | 47.07 | - | $0.7380 | 1000k |
 
