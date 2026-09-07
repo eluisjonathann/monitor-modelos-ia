@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-09-07 16:20 UTC`
+> 🔄 **Última sincronización automática:** `2026-09-07 21:56 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -30,16 +30,16 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | **Claude Fable 5.1 (max with fallback)** | 56.76 | 68.2 t/s | $6.1169 | 1000k |
-| 2 | **GPT-6 Astra (max)** | 54.66 | 62.5 t/s | $2.5673 | 1000k |
-| 3 | **Claude Opus 5 (max)** | 54.05 | 53.2 t/s | $4.2053 | 1000k |
-| 4 | **Claude Fable 5 (with fallback)** | 53.19 | 60.0 t/s | - | 1000k |
-| 5 | **Muse Spark 1.3 (max)** | 52.95 | 230.1 t/s | $0.9588 | 1000k |
-| 6 | **GPT-5.6 Sol (max)** | 51.26 | 74.0 t/s | - | 1000k |
-| 7 | **Grok 4.6 (high)** | 50.58 | 53.9 t/s | $1.2536 | 500k |
-| 8 | **Kimi K3 (max)** | 50.23 | 41.9 t/s | $1.5764 | 1048k |
-| 9 | **GLM-5.3 (max)** | 48.58 | 77.7 t/s | $1.2594 | 1000k |
-| 10 | **Gemini 3.8 Flash (high)** | 47.07 | 280.8 t/s | $0.7380 | 1000k |
+| 1 | **Claude Fable 5.1 (max with fallback)** | 53.37 | 69.5 t/s | $7.6297 | 1000k |
+| 2 | **GPT-6 Astra (max)** | 52.81 | 61.5 t/s | $3.2575 | 1000k |
+| 3 | **Claude Opus 5 (max)** | 50.7 | 54.3 t/s | $5.8584 | 1000k |
+| 4 | **Claude Fable 5 (with fallback)** | 49.7 | 61.7 t/s | - | 1000k |
+| 5 | **Muse Spark 1.3 (max)** | 48.17 | 235.5 t/s | $1.6049 | 1000k |
+| 6 | **GPT-5.6 Sol (max)** | 47.06 | 75.0 t/s | - | 1000k |
+| 7 | **GLM-5.3 (max)** | 44.45 | 75.4 t/s | $1.8078 | 1000k |
+| 8 | **Grok 4.6 (high)** | 44.41 | 55.8 t/s | $1.8589 | 500k |
+| 9 | **Kimi K3 (max)** | 43.78 | 41.9 t/s | $2.0001 | 1048k |
+| 10 | **GPT-5.6 Terra (max)** | 42.25 | 115.5 t/s | - | 1000k |
 
 ---
 
