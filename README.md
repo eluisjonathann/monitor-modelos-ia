@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-09-16 15:22 UTC`
+> 🔄 **Última sincronización automática:** `2026-09-16 21:59 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -31,7 +31,7 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | **Claude Fable 5.1 (max with fallback)** | 53.37 | 65.1 t/s | $7.6297 | 1000k |
-| 2 | **GPT-6 Astra (max)** | 52.81 | 52.6 t/s | $3.2575 | 1000k |
+| 2 | **GPT-6 Astra (max)** | 52.81 | 52.2 t/s | $3.2575 | 1000k |
 | 3 | **Claude Opus 5 (max)** | 50.7 | 50.2 t/s | $5.8584 | 1000k |
 | 4 | **Claude Fable 5 (with fallback)** | 49.7 | 66.5 t/s | - | 1000k |
 | 5 | **Muse Spark 1.3 (max)** | 48.17 | 235.3 t/s | $1.6049 | 1000k |
@@ -39,7 +39,7 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 | 7 | **GLM-5.3 (max)** | 44.86 | 67.0 t/s | $2.0056 | 1000k |
 | 8 | **Grok 4.6 (high)** | 44.41 | 62.9 t/s | $1.8589 | - |
 | 9 | **Kimi K3 (max)** | 43.78 | 36.0 t/s | $2.0001 | 1048k |
-| 10 | **GPT-5.6 Terra (max)** | 42.25 | 94.5 t/s | - | 1000k |
+| 10 | **GPT-5.6 Terra (max)** | 42.25 | 92.9 t/s | - | 1000k |
 
 ---
 
