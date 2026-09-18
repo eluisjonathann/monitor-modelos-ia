@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-09-17 22:00 UTC`
+> 🔄 **Última sincronización automática:** `2026-09-18 08:06 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -30,16 +30,16 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | **Claude Fable 5.1 (max with fallback)** | 53.37 | 67.7 t/s | $7.6297 | 1000k |
-| 2 | **GPT-6 Astra (max)** | 52.81 | 52.6 t/s | $3.2575 | 1000k |
-| 3 | **Claude Opus 5 (max)** | 50.7 | 49.1 t/s | $5.8584 | 1000k |
-| 4 | **Muse Spark 1.3 (max)** | 48.17 | 202.3 t/s | $1.6049 | 1000k |
-| 5 | **GPT-5.6 Sol (max)** | 47.06 | 63.9 t/s | - | 1000k |
+| 1 | **Claude Fable 5.1 (max with fallback)** | 53.37 | 66.4 t/s | $7.6297 | 1000k |
+| 2 | **GPT-6 Astra (max)** | 52.81 | 51.3 t/s | $3.2575 | 1000k |
+| 3 | **Claude Opus 5 (max)** | 50.7 | 49.6 t/s | $5.8584 | 1000k |
+| 4 | **Muse Spark 1.3 (max)** | 48.17 | 204.4 t/s | $1.6049 | 1000k |
+| 5 | **GPT-5.6 Sol (max)** | 47.06 | 62.0 t/s | - | 1000k |
 | 6 | **Qwen3.8 Max (0902)** | 45.44 | - | - | 983k |
-| 7 | **GLM-5.3 (max)** | 44.86 | 63.4 t/s | $2.0056 | 1000k |
-| 8 | **Grok 4.6 (high)** | 44.41 | 59.7 t/s | $1.8589 | 500k |
-| 9 | **Kimi K3 (max)** | 43.78 | 36.0 t/s | $2.0001 | 1048k |
-| 10 | **GPT-5.6 Terra (max)** | 42.25 | 85.0 t/s | - | 1000k |
+| 7 | **GLM-5.3 (max)** | 44.86 | 63.0 t/s | $2.0056 | 1000k |
+| 8 | **Grok 4.6 (high)** | 44.41 | 59.3 t/s | $1.8589 | 500k |
+| 9 | **Kimi K3 (max)** | 43.78 | 36.4 t/s | $2.0001 | 1048k |
+| 10 | **GPT-5.6 Terra (max)** | 42.25 | 82.1 t/s | - | 1000k |
 
 ---
 
