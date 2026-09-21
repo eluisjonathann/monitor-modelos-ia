@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-09-21 16:55 UTC`
+> 🔄 **Última sincronización automática:** `2026-09-21 22:31 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -30,16 +30,16 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | **Claude Fable 5.1 (max with fallback)** | 53.35 | 69.2 t/s | $7.6297 | 1000k |
-| 2 | **GPT-6 Astra (max)** | 52.67 | 68.7 t/s | $3.2575 | 1000k |
-| 3 | **Claude Opus 5 (max)** | 50.78 | 58.9 t/s | $5.8584 | 1000k |
-| 4 | **Muse Spark 1.3 (max)** | 48.09 | 240.7 t/s | $1.6049 | 1000k |
-| 5 | **GPT-5.6 Sol (max)** | 46.97 | 77.3 t/s | - | 1000k |
-| 6 | **Grok 4.7 (xhigh)** | 46.45 | - | - | - |
-| 7 | **Qwen3.8 Max (0902)** | 45.42 | - | - | 983k |
-| 8 | **GLM-5.3 (max)** | 44.78 | 66.4 t/s | $2.0056 | 1000k |
-| 9 | **Grok 4.6 (high)** | 44.31 | 66.7 t/s | - | - |
-| 10 | **Step 5 Preview** | 43.73 | 91.5 t/s | - | 1000k |
+| 1 | **Claude Fable 5.1 (max with fallback)** | 53.35 | 65.8 t/s | $7.6297 | 1000k |
+| 2 | **GPT-6 Astra (max)** | 52.67 | 66.6 t/s | $3.2575 | 1000k |
+| 3 | **Claude Opus 5 (max)** | 50.78 | 56.4 t/s | $5.8584 | 1000k |
+| 4 | **Muse Spark 1.3 (max)** | 48.09 | 223.0 t/s | $1.6049 | 1000k |
+| 5 | **GPT-5.6 Sol (max)** | 46.97 | 79.3 t/s | - | 1000k |
+| 6 | **Grok 4.7 (xhigh)** | 46.45 | 38.8 t/s | $3.7383 | - |
+| 7 | **MiMo-V2.6-Pro** | 46.32 | 129.7 t/s | - | 1000k |
+| 8 | **Qwen3.8 Max (0902)** | 45.42 | - | - | 983k |
+| 9 | **GLM-5.3 (max)** | 44.78 | 57.2 t/s | $2.0056 | 1000k |
+| 10 | **Grok 4.6 (high)** | 44.31 | 60.4 t/s | - | - |
 
 ---
 
