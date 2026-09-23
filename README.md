@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-09-22 21:55 UTC`
+> 🔄 **Última sincronización automática:** `2026-09-23 08:25 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -31,15 +31,15 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | **Claude Opus 5.5 (max with fallback)** | 57.62 | - | $5.9820 | 1000k |
-| 2 | **Claude Fable 5.1 (max with fallback)** | 53.35 | 64.7 t/s | $7.6297 | 1000k |
-| 3 | **GPT-6 Astra (max)** | 52.67 | 57.7 t/s | $3.2575 | 1000k |
-| 4 | **Claude Opus 5 (max)** | 50.78 | 53.6 t/s | - | 1000k |
-| 5 | **Muse Spark 1.3 (max)** | 48.09 | 218.6 t/s | $1.6049 | 1000k |
-| 6 | **GPT-6 Sol (max)** | 47.53 | 104.4 t/s | - | - |
-| 7 | **GPT-5.6 Sol (max)** | 46.97 | 72.6 t/s | - | 1000k |
-| 8 | **Grok 4.7 (xhigh)** | 46.45 | 39.3 t/s | $3.7383 | - |
-| 9 | **MiMo-V2.6-Pro** | 46.32 | 54.6 t/s | $0.1332 | 1000k |
-| 10 | **Qwen3.8 Max (0902)** | 45.42 | - | - | 983k |
+| 2 | **Claude Fable 5.1 (max with fallback)** | 53.35 | 65.7 t/s | $7.6297 | 1000k |
+| 3 | **GPT-6 Astra (max)** | 52.67 | 58.1 t/s | $3.2575 | 1000k |
+| 4 | **Muse Spark 1.3 (max)** | 48.09 | 223.0 t/s | $1.6049 | 1000k |
+| 5 | **GPT-6 Sol (max)** | 47.53 | 131.2 t/s | - | 872k |
+| 6 | **Grok 4.7 (xhigh)** | 46.45 | 39.0 t/s | $3.7383 | 500k |
+| 7 | **MiMo-V2.6-Pro** | 46.32 | 54.2 t/s | $0.1332 | 1000k |
+| 8 | **Qwen3.8 Max (0902)** | 45.42 | 39.2 t/s | - | 983k |
+| 9 | **GLM-5.3 (max)** | 44.78 | 60.7 t/s | $2.0056 | 1000k |
+| 10 | **Grok 4.6 (high)** | 44.31 | 58.6 t/s | - | - |
 
 ---
 
