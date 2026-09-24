@@ -5,7 +5,7 @@
 ![Data Sources](https://img.shields.io/badge/Fuentes-Artificial%20Analysis%20%7C%20Arena%20LMSYS-orange)
 ![Update Frequency](https://img.shields.io/badge/Actualizaci%C3%B3n-3x%20al%20d%C3%ADa-green)
 
-> 🔄 **Última sincronización automática:** `2026-09-24 15:45 UTC`
+> 🔄 **Última sincronización automática:** `2026-09-24 22:09 UTC`
 
 Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasifica en tiempo real las métricas de los modelos de inteligencia artificial líderes del mercado.
 
@@ -17,12 +17,12 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 
 | Caso de Uso | Modelo Recomendado Líder | Por qué elegirlo |
 | :--- | :--- | :--- |
-| 🎓 **Tesis & Redacción Académica** | **claude-fable-5-high** | Máximo razonamiento, síntesis conceptual y profundidad lógica. |
-| 💻 **Programación & Desarrollo Web** | **claude-opus-5.5-max** | Mayor precisión en generación de código, refactorización y terminal. |
-| ⚡ **Consultas Diarias & Búsqueda Web** | **gpt-5.6-sol-xhigh** | Respuestas precisas conectadas a internet en tiempo real. |
-| 🤖 **Agentes Autónomos & Workflows** | **Claude Fable 5.1 (Max)** | Mejor resolución autónoma en tareas multi-paso complejas. |
-| 🎨 **Generación de Imágenes** | **gpt-image-2.5-sunburst** | Máxima fidelidad de instrucciones y calidad visual. |
-| 🎬 **Generación de Video** | **gemini-omni-1.1-flash** | Consistencia temporal y calidad de movimiento. |
+| 🎓 **Tesis & Redacción Académica** | **Claude Fable 5** | Máximo razonamiento, síntesis conceptual y profundidad lógica. |
+| 💻 **Programación & Desarrollo Web** | **Claude Opus 5** | Mayor precisión en generación de código, refactorización y terminal. |
+| ⚡ **Consultas Diarias & Búsqueda Web** | **Claude Opus 4.6 Search** | Respuestas precisas conectadas a internet en tiempo real. |
+| 🤖 **Agentes Autónomos & Workflows** | **Claude Opus 5 (High)** | Mejor resolución autónoma en tareas multi-paso complejas. |
+| 🎨 **Generación de Imágenes** | **GPT Image 2** | Máxima fidelidad de instrucciones y calidad visual. |
+| 🎬 **Generación de Video** | **Gemini Omni Flash** | Consistencia temporal y calidad de movimiento. |
 
 ---
 
@@ -31,14 +31,14 @@ Sistema automatizado mediante **GitHub Actions** que monitorea, fusiona y clasif
 | Puesto | Modelo | Índice Inteligencia | Velocidad (t/s) | Costo / Tarea ($ USD) | Ventana Contexto |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | **Claude Opus 5.5 (max with fallback)** | 57.62 | - | $5.9820 | 1000k |
-| 2 | **Claude Fable 5.1 (max with fallback)** | 53.35 | 66.9 t/s | $7.6297 | 1000k |
+| 2 | **Claude Fable 5.1 (max with fallback)** | 53.35 | 68.4 t/s | $7.6297 | 1000k |
 | 3 | **GPT-6 Astra (max)** | 52.67 | 51.8 t/s | $3.2575 | 1000k |
 | 4 | **Muse Spark 1.3 (max)** | 48.09 | 222.3 t/s | $1.6049 | 1000k |
-| 5 | **GPT-6 Sol (max)** | 47.53 | 109.6 t/s | - | 872k |
+| 5 | **GPT-6 Sol (max)** | 47.53 | 104.4 t/s | - | 872k |
 | 6 | **Grok 4.7 (xhigh)** | 46.45 | 40.4 t/s | $3.7383 | 500k |
 | 7 | **MiMo-V2.6-Pro** | 46.32 | 45.4 t/s | $0.1332 | 1000k |
 | 8 | **Qwen3.8 Max (0902)** | 45.42 | - | - | 983k |
-| 9 | **GLM-5.3 (max)** | 44.78 | 58.2 t/s | $2.0056 | 1000k |
+| 9 | **GLM-5.3 (max)** | 44.78 | 60.0 t/s | $2.0056 | 1000k |
 | 10 | **Grok 4.6 (high)** | 44.31 | 64.5 t/s | - | - |
 
 ---
