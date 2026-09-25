@@ -1,8 +1,9 @@
 # 🏆 Leaderboard Consolidado de Modelos de IA
 
-> 🔄 **Última actualización automática:** `2026-09-24 22:09 UTC`
+> 🔄 **Última actualización automática:** `2026-09-25 08:40 UTC`
 > 🌐 **Fuentes de datos:** Datos dinámicos en vivo de [Artificial Analysis](https://artificialanalysis.ai) y [Arena Leaderboard (LMSYS)](https://arena.ai).
 
+> ⚠️ **Aviso:** No se pudieron sincronizar datos de Artificial Analysis en esta ejecución.
 > ⚠️ **Aviso:** No se pudieron sincronizar datos de Arena Leaderboard en esta ejecución.
 ---
 
@@ -26,18 +27,7 @@ Esta tabla combina la **inteligencia y velocidad** de Artificial Analysis con la
 
 | Puesto | Modelo | Inteligencia (AA) | Velocidad | Costo / Tarea | Arena Pts (Text) | Contexto | Mejor Para |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 1 | **Claude Opus 5.5 (max with fallback)** | 57.62 | - | $5.9820 | - | 1000k | Máximo Rendimiento & Problemas Complejos |
-| 2 | **Claude Fable 5.1 (max with fallback)** | 53.35 | 68.4 t/s | $7.6297 | - | 1000k | Máximo Rendimiento & Problemas Complejos |
-| 3 | **GPT-6 Astra (max)** | 52.67 | 51.8 t/s | $3.2575 | - | 1000k | Máximo Rendimiento & Problemas Complejos |
-| 4 | **Muse Spark 1.3 (max)** | 48.09 | 222.3 t/s | $1.6049 | - | 1000k | Uso Diario, APIs & Velocidad |
-| 5 | **GPT-6 Sol (max)** | 47.53 | 104.4 t/s | - | - | 872k | Razonamiento Avanzado & Tesis |
-| 6 | **Grok 4.7 (xhigh)** | 46.45 | 40.4 t/s | $3.7383 | - | 500k | Razonamiento Avanzado & Tesis |
-| 7 | **MiMo-V2.6-Pro** | 46.32 | 45.4 t/s | $0.1332 | - | 1000k | Alta Eficiencia / Económico |
-| 8 | **Qwen3.8 Max (0902)** | 45.42 | - | - | - | 983k | Razonamiento Avanzado & Tesis |
-| 9 | **GLM-5.3 (max)** | 44.78 | 60.0 t/s | $2.0056 | - | 1000k | Razonamiento Avanzado & Tesis |
-| 10 | **Grok 4.6 (high)** | 44.31 | 64.5 t/s | - | - | - | Razonamiento Avanzado & Tesis |
-| 11 | **Step 5 Preview** | 43.73 | 83.1 t/s | - | - | 1000k | Razonamiento Avanzado & Tesis |
-| 12 | **Kimi K3 (max)** | 43.59 | - | - | - | 1048k | Razonamiento Avanzado & Tesis |
+| - | *Sin datos disponibles de Artificial Analysis en esta ejecución* | - | - | - | - | - | - |
 
 ---
 
@@ -137,15 +127,6 @@ Modelos con la mayor velocidad de generación (tokens/s) y menor costo por tarea
 
 | Modelo | Velocidad (tokens/s) | Costo / Tarea ($ USD) | Inteligencia AA | Ventana Contexto |
 | :--- | :---: | :---: | :---: | :---: |
-| **Gemini 3.5 Flash-Lite** | 345.4 t/s | - | - | 1000k |
-| **Gemini 3.8 Flash (high)** | 287.6 t/s | $1.2428 | 40.93 | 1000k |
-| **DeepSeek V4.1 Flash (max)** | 231.8 t/s | $0.2652 | 39.46 | 1000k |
-| **Muse Spark 1.3 (max)** | 222.3 t/s | $1.6049 | 48.09 | 1000k |
-| **Inkling** | 162.7 t/s | - | 24.98 | 1000k |
-| **Mistral Medium 3.5** | 149.2 t/s | - | - | - |
-| **MiniMax-M3** | 144.6 t/s | - | 29.22 | 1000k |
-| **GPT-6 Luna (max)** | 132.2 t/s | $0.0681 | 37.26 | 1000k |
-| **Nemotron 3 Ultra** | 120.7 t/s | - | - | - |
-| **GPT-6 Sol (max)** | 104.4 t/s | - | 47.53 | 872k |
+| *Sin datos de velocidad disponibles* | - | - | - | - |
 
 ---
