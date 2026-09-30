@@ -1,6 +1,6 @@
 # 🏆 Leaderboard Consolidado de Modelos de IA
 
-> 🔄 **Última actualización automática:** `2026-09-30 16:44 UTC`
+> 🔄 **Última actualización automática:** `2026-09-30 22:53 UTC`
 > 🌐 **Fuentes de datos:** Datos dinámicos en vivo de [Artificial Analysis](https://artificialanalysis.ai) y [Arena Leaderboard (LMSYS)](https://arena.ai).
 
 > ⚠️ **Aviso:** No se pudieron sincronizar datos de Artificial Analysis en esta ejecución.
